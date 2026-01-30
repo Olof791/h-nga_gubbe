@@ -1,5 +1,5 @@
 ord = input("SKriv ett ord")
-ord.lower()
+ord = ord.lower()
 gissningar = 8
 gissade = []
 rätta = []
